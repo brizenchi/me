@@ -10,8 +10,8 @@ description: A Github Pages (Jekyll) template based on TailwindCSS
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Satoshi Nakamoto
-author-bio: Creator of Bitcoin  # change to false to hide
+author: Brizen Chi
+author-bio: Indie Hacker / Explorer  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
 # navigation menu
@@ -26,18 +26,18 @@ nav-menu:
   permalink: blog
 
 # use false to turn off any social media links
-twitter: https://twitter.com/
-facebook: https://facebook.com/
-instagram: https://instagram.com/
-github: https://github.com/
+twitter: https://twitter.com/0xBrizen
+# facebook: https://facebook.com/
+# instagram: https://instagram.com/
+github: https://github.com/brizenchi
 linkedin: https://linkedin.com/
 medium: false
 google-scholar: false
-email: false
+email: brizenchi@gmail.com
 
 # footer information
 footer-msg: "Powered by Tailpages"
-footer-msg-link: https://github.com/harrywang/tailpages
+footer-msg-link: https://github.com/brizenchi/tailpages
 
 # google analytics
 google-analytics: G-WCRC1TC2V5
