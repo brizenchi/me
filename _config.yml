@@ -25,6 +25,14 @@ nav-menu:
 - text: Blog
   permalink: blog
 
+zh-nav-menu:
+- text: 关于
+  permalink: zh/about
+- text: 项目
+  permalink: zh/projects
+- text: 博客
+  permalink: zh/blog
+
 # use false to turn off any social media links
 twitter: https://twitter.com/0xBrizen
 # facebook: https://facebook.com/
@@ -51,3 +59,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:title/
+  blog:
+    output: true
+    permalink: /blog/:title/
+  zh:
+    output: true
+    permalink: /zh/:name/
