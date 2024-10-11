@@ -20,8 +20,8 @@ show-nav-menu: true
 nav-menu:
 - text: About
   permalink: about
-- text: Bitcoin
-  permalink: bitcoin
+- text: Projects
+  permalink: projects
 - text: Blog
   permalink: blog
 
@@ -30,7 +30,8 @@ twitter: https://twitter.com/0xBrizen
 # facebook: https://facebook.com/
 # instagram: https://instagram.com/
 github: https://github.com/brizenchi
-linkedin: https://linkedin.com/
+# linkedin: https://linkedin.com/
+telegram: https://t.me/brizenchi
 medium: false
 google-scholar: false
 email: brizenchi@gmail.com
@@ -45,3 +46,8 @@ google-analytics: G-WCRC1TC2V5
 # jekyll plugins - no need to change
 plugins:
     - jekyll-seo-tag
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/

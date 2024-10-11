@@ -1,3 +1,11 @@
+# Run
+install jekyll: https://jekyllrb.com/docs/installation/macos/
+bundle install
+bundle add webrick
+
+bundle exec jekyll serve
+Open it in your browser: http://localhost:4000
+
 # About
 
 Tailpages (Tailwind + Github Pages) is a Jekyll website template based on TailwindCSS, which can be hosted by Github for free. You can visit the demo site at [https://harrywang.me/](https://harrywang.me/).
