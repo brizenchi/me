@@ -56,9 +56,9 @@ plugins:
     - jekyll-seo-tag
 
 collections:
-  # projects:
-  #   output: true
-  #   permalink: /projects/:title/
+  projects:
+    output: true
+    permalink: /projects/:title/
   blog:
     output: true
     permalink: /blog/:title/
