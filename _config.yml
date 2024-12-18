@@ -10,7 +10,7 @@ description: A Github Pages (Jekyll) template based on TailwindCSS
 theme-color: indigo # indigo|yellow|pink|green|stone|
 
 # homepage information
-author: Brizen Chi
+author: Brizen Chi（池邦成）
 author-bio: Indie Hacker / Explorer  # change to false to hide
 author-image: 279.png  # file must be in the /assets/img/ folder
 
