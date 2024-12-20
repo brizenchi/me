@@ -32,11 +32,14 @@ permalink: about
 <!-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/0xBrizen)
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your_handle) -->
 <!-- [![即刻](https://img.shields.io/badge/即刻-FF2442?style=flat-square)]([your_xhs_link](https://okjk.co/gdLJKA)) -->
-<a href="https://x.com/0xBrizen" style="display: inline-block;text-decoration: none; width: 38px; height: 38px;">
-  <img src="assets/img/twitter.png" style="display: inline-block; margin-right: 8px;margin-top: 0px;margin-bottom: 0px;" alt="twitter" width="38" height="38">
+<a href="https://x.com/0xBrizen" style="margin-right: 6px;display: inline-block;text-decoration: none; width: 31px; height: 31px;">
+  <img src="assets/img/twitter.png" style="display: inline-block; margin-top: 0px;margin-bottom: 0px;" alt="twitter" width="31" height="31">
 </a>
-<a href="https://okjk.co/gdLJKA" style="display: inline-block;text-decoration: none; width: 31px; height: 31px;">
-  <img src="assets/img/jike.png" style="border-radius: 5px; display: inline-block; margin-right: 8px;margin-top: 0px;margin-bottom: 0px;" alt="jike" width="31" height="31">
+<a href="https://okjk.co/gdLJKA" style="margin-right: 6px;display: inline-block;text-decoration: none; width: 31px; height: 31px;">
+  <img src="assets/img/jike.png" style="border-radius: 5px; display: inline-block; margin-top: 0px;margin-bottom: 0px;" alt="jike" width="31" height="31">
+</a>
+<a href="https://www.xiaohongshu.com/user/profile/5cc04c5a0000000010036512" style="margin-right: 6px;display: inline-block;text-decoration: none; width: 31px; height: 31px;">
+  <img src="assets/img/xhs.png" style="border-radius: 5px; display: inline-block; margin-top: 0px;margin-bottom: 0px;" alt="jike" width="31" height="31">
 </a>
 <!-- <a href="https://github.com/brizenchi" style="display: inline-block;text-decoration: none; width: 41px; height: 41px;">
   <img src="assets/img/github.png" style="border-radius: 5px; display: inline-block; margin-right: 8px;margin-top: 0px;margin-bottom: 0px;" alt="github" width="41" height="41">

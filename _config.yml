@@ -24,18 +24,19 @@ author-image: 279.png  # file must be in the /assets/img/ folder
 show-nav-menu: true
 
 nav-menu:
-- text: About
-  permalink: about
-- text: Projects
-  permalink: projects
 - text: Blog
   permalink: blog
+- text: About
+  permalink: about
+# - text: Projects
+  # permalink: projects
+
 
 zh-nav-menu:
 - text: 关于
   permalink: zh/about
-- text: 项目
-  permalink: zh/projects
+# - text: 项目
+#   permalink: zh/projects
 - text: 博客
   permalink: zh/blog
 
