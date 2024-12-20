@@ -33,16 +33,20 @@ permalink: about
 <!-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your_handle) -->
 <!-- [![即刻](https://img.shields.io/badge/即刻-FF2442?style=flat-square)]([your_xhs_link](https://okjk.co/gdLJKA)) -->
 <a href="https://x.com/0xBrizen" style="display: inline-block;text-decoration: none; width: 38px; height: 38px;">
-  <img src="assets/img/twitter.png" style="display: inline-block; margin-right: 8px;margin-top: 0px;margin-bottom: 0px;" alt="WeChat" width="38" height="38">
+  <img src="assets/img/twitter.png" style="display: inline-block; margin-right: 8px;margin-top: 0px;margin-bottom: 0px;" alt="twitter" width="38" height="38">
 </a>
 <a href="https://okjk.co/gdLJKA" style="display: inline-block;text-decoration: none; width: 31px; height: 31px;">
-  <img src="assets/img/jike.png" style="border-radius: 5px; display: inline-block; margin-right: 8px;margin-top: 0px;margin-bottom: 0px;" alt="WeChat" width="31" height="31">
+  <img src="assets/img/jike.png" style="border-radius: 5px; display: inline-block; margin-right: 8px;margin-top: 0px;margin-bottom: 0px;" alt="jike" width="31" height="31">
 </a>
+<!-- <a href="https://github.com/brizenchi" style="display: inline-block;text-decoration: none; width: 41px; height: 41px;">
+  <img src="assets/img/github.png" style="border-radius: 5px; display: inline-block; margin-right: 8px;margin-top: 0px;margin-bottom: 0px;" alt="github" width="41" height="41">
+</a> -->
 
-### 📫 Contact me
+
+<!-- ### 📫 Contact me -->
 
 <!-- [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brizenchi) -->
-<a href="https://t.me/brizenchi" style="display: inline-block;text-decoration: none; width: 38px; height: 38px;">
+<!-- <a href="https://t.me/brizenchi" style="display: inline-block;text-decoration: none; width: 38px; height: 38px;">
   <img src="assets/img/telegram.png" style="display: inline-block; margin-right: 8px; margin-top: 0px;margin-bottom: 0px;" alt="WeChat" width="38" height="38">
 </a>
 <a href="https://qny.brizen.cn/wechat.jpg" style="display: inline-block;text-decoration: none; width: 38px; height: 38px;">
@@ -50,6 +54,6 @@ permalink: about
 </a>
 <a href="mailto:brizenchi@gmail.com" style="display: inline-block;text-decoration: none; width: 38px; height: 38px;">
   <img src="assets/img/email.png" style="display: inline-block; margin-right: 8px; margin-top: 0px;margin-bottom: 0px;" alt="WeChat" width="38" height="38">
-</a>
+</a> -->
 <!-- [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brizenchi@gmail.com) -->
 
