@@ -1,4 +1,10 @@
 # change the followings to match your Github username and repo name
+# 指定仓库
+repository: brizenchi/me
+
+# 限制 GitHub Metadata 的访问范围
+github: [metadata]
+
 baseurl: "" # the name of your github repo
 url: "https://brizen.top" # the url of your github pages
 
