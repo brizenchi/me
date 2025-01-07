@@ -1,10 +1,12 @@
 # Run
-install jekyll: https://jekyllrb.com/docs/installation/macos/
+```bash
+# install jekyll: https://jekyllrb.com/docs/installation/macos/
 bundle install
 bundle add webrick
 
 bundle exec jekyll serve
-Open it in your browser: http://localhost:4000
+# Open it in your browser: http://localhost:4000
+```
 
 # About
 
