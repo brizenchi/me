@@ -1,0 +1,75 @@
+# change the followings to match your Github username and repo name
+# 指定仓库
+repository: brizenchi/me
+
+# 限制 GitHub Metadata 的访问范围
+github: [metadata]
+
+baseurl: "" # the name of your github repo
+url: "https://brizen.top" # the url of your github pages
+
+# site information used in page title, meta data etc.
+title: "Tailpages: Tailwind + Github Pages"
+description: A Github Pages (Jekyll) template based on TailwindCSS
+
+# color theme for links
+theme-color: indigo # indigo|yellow|pink|green|stone|
+
+# homepage information
+author: Brizen Chi（池邦成）
+author-bio: Indie Hacker / Explorer  # change to false to hide
+author-image: 279.png  # file must be in the /assets/img/ folder
+
+# navigation menu
+show-nav-menu: true
+
+nav-menu:
+- text: Blog
+  permalink: blog
+- text: About
+  permalink: about
+# - text: Projects
+  # permalink: projects
+
+
+zh-nav-menu:
+- text: 关于
+  permalink: zh/about
+# - text: 项目
+#   permalink: zh/projects
+- text: 博客
+  permalink: zh/blog
+
+# use false to turn off any social media links
+# twitter: https://twitter.com/
+# facebook: https://facebook.com/
+# instagram: https://instagram.com/
+# github: https://github.com/brizenchi
+# linkedin: https://linkedin.com/
+telegram: https://t.me/brizenchi
+wechat: https://qny.brizen.cn/wechat.jpg
+medium: false
+google-scholar: false
+email: brizenchi@gmail.com
+
+# footer information
+footer-msg: "Powered by Tailpages"
+footer-msg-link: https://github.com/brizenchi/tailpages
+
+# google analytics
+google-analytics: G-WCRC1TC2V5
+
+# jekyll plugins - no need to change
+plugins:
+    - jekyll-seo-tag
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:title/
+  blog:
+    output: true
+    permalink: /blog/:title/
+  zh:
+    output: true
+    permalink: /zh/:name/
