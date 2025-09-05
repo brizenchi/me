@@ -74,3 +74,16 @@ collections:
     output: true
     permalink: /zh/:name/
 
+# 确保Jekyll正确处理collections
+defaults:
+  - scope:
+      path: ""
+      type: "blog"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "post"
+
