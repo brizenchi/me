@@ -6,7 +6,7 @@ repository: brizenchi/me
 github: [metadata]
 
 baseurl: "" # the name of your github repo
-url: "https://brizen.top" # the url of your github pages
+url: "https://brizen.me" # the url of your github pages
 
 # site information used in page title, meta data etc.
 title: "Tailpages: Tailwind + Github Pages"
@@ -73,3 +73,4 @@ collections:
   zh:
     output: true
     permalink: /zh/:name/
+
