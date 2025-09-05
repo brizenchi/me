@@ -2,5 +2,11 @@
   "buildCommand": "bundle install && npm install && bundle exec jekyll build",
   "outputDirectory": "_site",
   "framework": null,
-  "installCommand": "gem install bundler && bundle install && npm install"
+  "installCommand": "gem install bundler && bundle install && npm install",
+  "rewrites": [
+    {
+      "source": "/blog",
+      "destination": "/blog/"
+    }
+  ]
 }
