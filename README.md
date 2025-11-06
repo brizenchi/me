@@ -1,4 +1,6 @@
 # Run
+
+## 本地开发
 ```bash
 # install jekyll: https://jekyllrb.com/docs/installation/macos/
 bundle install
@@ -6,6 +8,18 @@ bundle add webrick
 
 bundle exec jekyll serve
 # Open it in your browser: http://localhost:4000
+```
+
+## Docker 部署
+```bash
+# 构建并运行 Docker 容器
+docker-compose up --build
+
+# 或者使用 Docker 命令
+docker build -f deployment/Dockerfile -t jekyll-tailpages .
+docker run -p 8080:80 jekyll-tailpages
+
+# 访问网站: http://localhost:8080
 ```
 
 # About
