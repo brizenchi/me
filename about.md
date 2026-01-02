@@ -22,6 +22,7 @@ permalink: /about/
 ### 🚀 我的作品
 - DeeperAI-每日新闻AI精选[🔗](https://deeperai.net/)
 - MagpieChina-入境游Travel Agent[🔗](https://magpiechina.com/)
+- NoteBookLM去水印[🔗](https://deckcleaner.xyz/)
 - Web3频道 [🎥](https://www.youtube.com/@memetalk626)
 - 微信智能客服
 - 猫咪百科全书
